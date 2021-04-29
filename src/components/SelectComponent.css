@@ -1,0 +1,21 @@
+.container{
+  position: fixed;
+  width: 100%;
+  top:0px; 
+  left:0px; 
+  bottom:0px; 
+  right:0px;
+  background-image: url("../assets/yoshi-02.jpeg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.center{
+  border: 3px solid #73AD21;
+  background: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  width: 50%;
+  height: 50%;
+}
